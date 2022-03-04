@@ -15,6 +15,7 @@ h1 {
   display: flex;
   background-image: url("images/topBanner.png");
   background-repeat: no-repeat;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
@@ -54,6 +55,7 @@ h1 {
 
 #sectoin-2 {
   display: flex;
-  background-image: url("images/topBanner.png");
+  background-image: url("images/sideBanner.png");
   background-repeat: no-repeat;
+  background-position: right;
 }
