@@ -92,12 +92,15 @@ h1 {
   text-align: center;
 }
 
-@media screen and (max-width: 468px) {
+@media screen and (max-width: 780px) {
   section {
     margin-bottom: 40px;
   }
   #section-1 .half-width {
     text-align: center;
+  }
+  .content-box {
+    padding: 0px 16px;
   }
   .half-width {
     width: 100vw;
